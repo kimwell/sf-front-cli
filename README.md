@@ -31,4 +31,4 @@ http://localhost:3000/
 
 ## 开源协议
 
-TDesign 遵循 [MIT 协议](https://github.com/Tencent/tdesign-starter-cli/LICENSE)。
+sj 遵循 [MIT 协议](https://github.com/Tencent/tdesign-starter-cli/LICENSE)。
